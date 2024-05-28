@@ -99,7 +99,6 @@ for (; ; )
     for (int i = 0; i < io.Length; i++) {
         int inpute = int.Parse(Console.ReadLine());
         io[i] = inpute; }
-
       
     int max = int.MinValue;
     int min= int.MaxValue;
