@@ -101,8 +101,6 @@ for (; ; )
         io[i] = inpute; }
 
 
-
-
     int max = int.MinValue;
     int min= int.MaxValue;
 
